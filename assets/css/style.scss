@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+aside a.buttonPlayStore {
+  display: block;
+  width: 200px;
+  font-size: 21px;
+  margin-bottom: 20px;
+}
+
+aside a.buttonAppStore {
+  display: block;
+  width: 200px;
+  margin-bottom: 20rem;
+  font-size: 21px;
+}
+
+aside a.buttonPlayStore img {
+  width: 100%;
+}
+aside a.buttonAppStore img {
+  width: 100%;
+}
