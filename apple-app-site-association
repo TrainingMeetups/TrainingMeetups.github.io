@@ -2,8 +2,11 @@
   "applinks": {
     "apps": [],
     "details": [
-      {       
+      {
         "appID": "com.xabierjauregi.trainingmeetups",
+        "appIDs": [
+          "com.xabierjauregi.trainingmeetups"
+        ],
         "paths": [
           "*"
         ]
