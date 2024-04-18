@@ -1,9 +1,12 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "TrainingMeetups",
-    "package_name": "com.xabierjauregi.trainingmeetups",
-    "sha256_cert_fingerprints":
-    ["26:8A:5C:0D:1C:F3:4F:F8:A7:FC:35:0C:80:66:C1:C4:20:0F:0D:B5:ED:A5:C9:41:46:4C:B1:98:AC:C5:2E:CC"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.xabierjauregi.trainingmeetups",
+      "sha256_cert_fingerprints": [
+        "26:8A:5C:0D:1C:F3:4F:F8:A7:FC:35:0C:80:66:C1:C4:20:0F:0D:B5:ED:A5:C9:41:46:4C:B1:98:AC:C5:2E:CC"
+      ]
+    }
   }
-}]
+]
