@@ -3,12 +3,10 @@
     "apps": [],
     "details": [
       {
-        "appID": "com.xabierjauregi.trainingmeetups",
-        "appIDs": [
-          "com.xabierjauregi.trainingmeetups"
-        ],
+        "appID": "NXYXWY3VJ6.com.xabierjauregi.trainingmeetups",
         "paths": [
-          "*"
+          "*",
+          "/"
         ]
       }
     ]
